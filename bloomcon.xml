@@ -24,28 +24,28 @@
   <schedule>
     <numberOfDays>2</numberOfDays>
     <day1>
-      <1>
+      <time1>
         <time>9:00 AM</time>
         <title>Registration</title>
         <content>Pick up your BloomCon ID, enjoy stuff</content>
-      </1>
-      <2>
+    </time1>
+      <time2>
         <time>10:00 AM</time>
         <title>Opening Announcements</title>
         <content>Pick up your BloomCon ID, enjoy stuff</content>
-      </2>
+    </time2>
     </day1>
     <day2>
-      <1>
+      <time1>
         <time>9:00 AM</time>
         <title>Registration2</title>
         <content>Pick up your BloomCon ID, enjoy stuff</content>
-      </1>
-      <2>
+    </time1>
+      <time2>
         <time>10:00 AM</time>
         <title>Opening Announcements2</title>
         <content>Pick up your BloomCon ID, enjoy stuff</content>
-      </2>
+    </time2>
     </day2>
   </schedule>
   <events>
