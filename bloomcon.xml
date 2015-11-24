@@ -1,0 +1,76 @@
+<bloomcon>
+  <about>
+    <title>ABOUT BLOOMCON</title>
+    <content>Hosted at Bloomsburg University in Kehr Union, BloomCon brings together a whole variety of organisms whom all have a different genus. Most of which are humans, and interested in security. There will be many speakers, and you will have a chance to compete in unique cybersecurity challenges for prizes.</content>
+    <counters>
+      <first>
+        <title>PARTICIPANTS</title>
+        <number>500</number>
+      </first>
+      <second>
+        <title>PRIZES</title>
+        <number>30</number>
+      </second>
+      <third>
+        <title>SESSIONS</title>
+        <number>17</number>
+      </third>
+      <fourth>
+        <title>SPEAKERS</title>
+        <number>43</number>
+      </fourth>
+    </counters>
+  </about>
+  <schedule>
+    <numberOfDays>2</numberOfDays>
+    <day1>
+      <1>
+        <time>9:00 AM</time>
+        <title>Registration</title>
+        <content>Pick up your BloomCon ID, enjoy stuff</content>
+      </1>
+      <2>
+        <time>10:00 AM</time>
+        <title>Opening Announcements</title>
+        <content>Pick up your BloomCon ID, enjoy stuff</content>
+      </2>
+    </day1>
+    <day2>
+      <1>
+        <time>9:00 AM</time>
+        <title>Registration2</title>
+        <content>Pick up your BloomCon ID, enjoy stuff</content>
+      </1>
+      <2>
+        <time>10:00 AM</time>
+        <title>Opening Announcements2</title>
+        <content>Pick up your BloomCon ID, enjoy stuff</content>
+      </2>
+    </day2>
+  </schedule>
+  <events>
+    <title>EVENTS</title>
+    <first>
+      <title>CAPTURE THE FLAG</title>
+      <content>If endurance, skill, and strategy were the only classifications required for an activity to be considered sport, competitive hacking could be the newest "sport" gaining popularity.</content>
+    </first>
+    <second>
+      <title>FORENSICS CHALLENGE</title>
+      <content>You do stuff, like hacking.</content>
+    </second>
+    <third>
+      <title>SOCIAL ENGINEERING</title>
+      <content>Social engineering is the art of manipulating people so they give up confidential information. The types of information these criminals are seeking can vary, but when individuals are targeted the criminals are usually trying to trick you into giving them your passwords.</content>
+    </third>
+  </events>
+  <sponsors>
+    <title>SPONSORS</title>
+    <email_title>BECOME A SPONSOR</email_title>
+    <email>supremeoverlord@bloomcon.com</email>
+  </sponsors>
+  <date>
+    <month>FEBRUARY</month>
+    <day>5 - 6</day>
+    <year>2016</year>
+  </date>
+</bloomcon>
